@@ -1,0 +1,158 @@
+header{
+    background-image: url("https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.a1{
+
+margin-left: 600px;
+transition: all ease-in;
+
+}
+.a1:hover{
+    transform: scale(0.9 ,0.9);
+    background-color: rgb(251, 247, 247);
+    text-decoration: none;
+
+}
+.a2{
+
+   
+    transition: all ease-in;
+    
+    }
+    .a2:hover{
+        transform: scale(0.9 ,0.9);
+        background-color: rgb(251, 247, 247);
+        text-decoration: none;
+    
+    }
+    .a3{
+
+   
+        transition: all ease-in;
+        
+        }
+        .a3:hover{
+            transform: scale(0.9 ,0.9);
+            background-color: rgb(251, 247, 247);
+            text-decoration: none;
+        
+        }
+.travel{
+    margin-left: 200px;  
+    font-size: 30px; 
+}
+.Fuel{
+    position: absolute;
+    left: 210px;
+   top: 90px;
+   color: rgb(36, 10, 237);
+}
+.h1{
+    font-size: 40px;
+}
+.pp{
+    color: white;
+}
+.go{
+    display: block;
+    background-color: azure;
+    width: 90px;
+    height: 25px;
+    transition:  all ease-in;
+    box-shadow: 10px 10px 10px black;
+    padding: 10px 10px 10px 15px;
+    text-decoration: none;
+  
+}
+.go:hover{
+    transform: scale(0.9 ,0.9) ;
+}
+.box1{
+    background-color: blanchedalmond;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left :200px;
+    transition: ease-in-out;
+    
+}
+.box2{
+    background-color: blanchedalmond;
+    width: 100px;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left :550px;
+    bottom: 145px;
+
+   
+}
+.box3{
+    background-color: blanchedalmond;
+    width: 100px;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left :900px;
+    bottom: 290px;
+  
+}
+.p1{
+    text-align:  center;
+
+}
+.img{
+    position: relative;
+    left: 25px;
+    top: 10px;
+}
+.section{
+    background-color: rgb(76, 146, 122);
+    height:250px;
+}
+.box1:hover{
+    border: 2px solid black;
+    transform: scale(1.5,1.5);
+}
+.box2:hover{
+    border: 2px solid black;
+    transform: scale(1.5,1.5);
+}
+
+.box3:hover{
+    border: 2px solid black;
+    transform: scale(1.5,1.5);
+}
+.footer{
+    background-color: cornflowerblue;
+}
+.about{
+    position: relative;
+    left: 300px;
+    top:40px
+}
+.contact{
+    position: relative;
+    left: 500px;
+    bottom: 36px;
+}
+.social{
+    position: relative;
+    left: 800px;
+    bottom: 140px;
+}
+.fb{
+    border-radius: 50px;
+    position: relative;
+    left: 15px;
+}
+.ins{
+    border-radius: 50px;
+    position: relative;
+    left: 15px;
+    top: 20px;
+
+}
